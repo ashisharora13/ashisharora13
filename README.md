@@ -2,8 +2,6 @@
 
 ### A budding C#/.NET/Java/JavaScript/TypeScript developer in test automation
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ashisharora13" alt="ashisharora13" /> </p>
-
 - 🔭 I'm currently working on **Playwright with TypeScript Projects**
 
 - 🌱 I'm currently learning **TypeScript, Jmeter and K6**
