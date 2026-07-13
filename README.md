@@ -12,7 +12,8 @@
 
 - ⚡ Fun fact **I think I am boring!!**
 
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/ashish-arora-19893a19/](https://www.linkedin.com/in/ashish-arora-19893a19/)**
+- 👨‍💻 All of my projects are available at **[https://github.com/ashisharora13](https://github.com/ashisharora13)**
+- 👨‍💻 My LinkedIn profile can be found here **[https://www.linkedin.com/in/ashish-arora-19893a19/](https://www.linkedin.com/in/ashish-arora-19893a19/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
