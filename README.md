@@ -81,9 +81,9 @@
   "support": {
     "buyMeACoffee": ""
   },
-  "skills": [
+  "skills": {
     "nodejs",
     "react",
     "typescript"
-  ]
+  }
 }
